@@ -11,6 +11,7 @@ public class TextureBank {
 
 	public static Texture STONE = loadTexture("assets/images/tiles/stones.png");
 	public static Texture STONEBRICKS = loadTexture("assets/images/tiles/bracks.png");
+	public static Texture BALL = loadTexture("assets/ball.png");
 	
 	public static Texture loadTexture(String path){
 		Texture t = null;
